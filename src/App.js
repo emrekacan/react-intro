@@ -1,11 +1,14 @@
-import React from "react";
-import "./style.css";
+import React from 'react';
+import Navi from './Navi';
+import CategoryList from './CategoryList';
+import ProductList from './ProductList';
 
 export default function App() {
   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <Navi />
+      <CategoryList />
+      <ProductList />
     </div>
   );
 }
