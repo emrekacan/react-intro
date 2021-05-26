@@ -363,19 +363,19 @@
   ],
   "categories": [
     {
-      "categoryId": 1,
+      "id": 1,
       "description": "Soft drinks coffees teas beers and ales",
-      "productName": "Beverages"
+      "categoryName": "Beverages"
     },
     {
-      "categoryId": 2,
+      "id": 2,
       "description": "Sweet and savory sauces relishes spreads and seasonings",
-      "productName": "Condiments"
+      "categoryName": "Condiments"
     },
     {
-      "categoryId": 3,
+      "id": 3,
       "description": "Desserts candies and sweet breads",
-      "productName": "Confections"
+      "categoryName": "Confections"
     }
   ]
 }
